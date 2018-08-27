@@ -2506,6 +2506,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     uceShimService \
     com.qualcomm.location \
+    libMpeg4SwEncoder \
     qcrilmsgtunnel \
     colorservice \
     TimeService \
